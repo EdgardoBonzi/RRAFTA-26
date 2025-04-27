@@ -1,9 +1,9 @@
 <table width="100%" border="0">
 <tr>
-<td width="77%" align="center">
+<td width="60%" align="center">
 <h1 style="color:#1f4e79;">RRAFTA 25</h1>
 </td>
-<td width="23%" align="right">
+<td width="40%" align="right">
 <img src="Logo_RRAFTA-25.png" alt="RRAFTA 25" width="120" height="120">
 </td>
 </tr>
