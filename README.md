@@ -1,13 +1,17 @@
-<table width="100%" border="0">
+<div align="center">
+
+<table style="width:100%; max-width:800px; border:0;">
 <tr>
-<td width="60%" align="center">
-<h1 style="color:#1f4e79;">RRAFTA 25</h1>
+<td width="65%" align="center">
+<h1 style="color:#1f4e79; font-size:32px;">RRAFTA 25</h1>
 </td>
-<td width="40%" align="right">
-<img src="Logo_RRAFTA-25.png" alt="RRAFTA 25" width="120" height="120">
+<td width="35%" align="right">
+<img src="Logo_RRAFTA-25.png" alt="RRAFTA 25" width="100" height="100">
 </td>
 </tr>
 </table>
+
+</div>
 
 ### Reunión Regional Anual de Física, Tecnología y Aplicaciones
 
