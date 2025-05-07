@@ -79,10 +79,10 @@ Bienvenidos a la **RRAFTA-25**, la Reunión Regional Anual de Física, Tecnolog�
 ##### 🔊 Disertaciones
 
 - Durante los días de la reunión, se llevarán a cabo **disertaciones científicas** en el **Aula Magna de la FaMAF**, a partir de las 17:30 hs.
-. Aplicaciones tecnológicas de la resonancia magnética nuclear a campos bajos, Disertante: Esteban Anoardo 
-. Sensado Cuántico, Disertante: Fernando Meneses
-. Metrología Cuántica, Disertante: Mariano Real INTI – Universidad Nacional de San Martín ( a confirmar)
-. PINN (physical informed neural network) y SNN (shallow neural networks) en la física, Disertante: Edgardo Bonzi
+. Aplicaciones tecnológicas de la resonancia magnética nuclear a campos bajos, Disertante: Esteban Anoardo   
+. Sensado Cuántico, Disertante: Fernando Meneses  
+. Metrología Cuántica, Disertante: Mariano Real INTI – Universidad Nacional de San Martín ( a confirmar)  
+. PINN (physical informed neural network) y SNN (shallow neural networks) en la física, Disertante: Edgardo Bonzi  
 
 ---
 
