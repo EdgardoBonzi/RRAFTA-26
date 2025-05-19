@@ -79,6 +79,7 @@ Bienvenidos a la **RRAFTA-25**, la Reunión Regional Anual de Física, Tecnolog�
 ##### 🔊 Disertaciones
 
 - Durante los días de la reunión, se llevarán a cabo **disertaciones científicas** en el **Aula Magna de la FaMAF**, a partir de las 17:30 hs.
+- **En lo profundo de Vaca Muerta. Usamos la física para saber qué hay bajo tierra**, Disertante: Rodolfo Acosta. FAMAF-UNC.   
 . **Aplicaciones tecnológicas de la resonancia magnética nuclear a campos bajos**, Disertante: Esteban Anoardo. FAMAF-UNC.   
 . **Sensado Cuántico**, Disertante: Fernando Meneses. FAMAF-UNC.   
 . **Metrología Cuántica**, Disertante: Mariano Real. INTI – Universidad Nacional de San Martín ( a confirmar)  
