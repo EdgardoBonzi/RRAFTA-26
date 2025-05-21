@@ -81,7 +81,9 @@ Bienvenidos a la **RRAFTA-25**, la Reunión Regional Anual de Física, Tecnolog�
 - Durante los días de la reunión, se llevarán a cabo **disertaciones científicas** en el **Aula Magna de la FaMAF**, a partir de las 17:30 hs.   
 . **En lo profundo de Vaca Muerta. Usamos la física para saber qué hay bajo tierra**, Disertante: Rodolfo Acosta. FAMAF-UNC.   
 . **Aplicaciones tecnológicas de la resonancia magnética nuclear a campos bajos**, Disertante: Esteban Anoardo. FAMAF-UNC.   
-. **Sensado Cuántico**, Disertante: Fernando Meneses. FAMAF-UNC.   
+. **Diamantes para Sensado Cuántico**, Disertante: Fernando Meneses. FAMAF-UNC.
+    Los diamantes, además de ser joyas preciosas, sirven como plataformas para sensado cuántico, basadas en los defectos nitrógeno-vacancia (NV) en la red de carbono. Estos defectos son unidades cuánticas que pueden codificar información en sus niveles energéticos y además son excelentes sensores de los campos magnéticos externos.
+    En esta charla les contaré sobre diversas aplicaciones prácticas de los defectos cuánticos NV, incluyendo monitoreo remoto de objetos, mapas de actividad neuronal, sensores versátiles en el campo de la biomedicina, computación cuántica y mapeo de corrientes eléctricas en chips. Estas aplicaciones, enfocadas en el diamante pero extensibles a otras plataformas, son ejemplos de cómo la mecánica cuántica ha evolucionado y transformado la tecnología que utilizamos a diario, abriendo nuevas posibilidades para el futuro.
 . **Metrología Cuántica**, Disertante: Mariano Real. INTI – Universidad Nacional de San Martín ( a confirmar)  
 . **PINN (physical informed neural network) y SNN (shallow neural networks) en la física**, Disertante: Edgardo Bonzi. FAMAF-UNC.   
 
