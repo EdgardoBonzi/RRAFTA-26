@@ -110,6 +110,7 @@ Como extensión del enfoque basado en redes neuronales, presentamos dos aplicaci
 ##### 📧 Contacto
 
 Coordinador de la Comisión Organizadora: **Edgardo Bonzi**  
+📧 **Correo:** _edgardobonzi@gmail.com_
 📧 **Correo:** _edgardo.bonzi@unc.edu.ar_
 
 ---
