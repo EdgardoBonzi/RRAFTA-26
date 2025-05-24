@@ -44,6 +44,8 @@ Bienvenidos a la **RRAFTA-25**, la Reunión Regional Anual de Física, Tecnolog�
 - Un **investigador responsable** deberá:
   - Crear un usuario en la Intranet, sin asociarse!
   - Subir el **Resumen del Trabajo** (cuerpo del resumen máximo 400 palabras).
+  - Indicar las filiaciones
+  - Agregar los autores del trabajo
   - Indicar su **dirección de correo electrónico**.
 
 <div style="page-break-after: always;"></div>
