@@ -52,7 +52,7 @@ Bienvenidos a la **RRAFTA-25**, la Reunión Regional Anual de Física, Tecnolog�
   
   - Se podrá descargar un PDF con la leyenda: “**Sujeto a revisión por parte del Comité Científico de la RRAFTA-25**”.
 
-- **Fecha límite para envío de resúmenes:** 26 de mayo de 2025.
+- **Fecha límite para envío de resúmenes:** 28 de mayo de 2025.
 
 ---
 
