@@ -42,7 +42,7 @@ Bienvenidos a la **RRAFTA-25**, la Reunión Regional Anual de Física, Tecnolog�
   - [https://intranet.fisica.org.ar/](https://intranet.fisica.org.ar/)
 
 - Un **investigador responsable** deberá:
-  
+  - Crear un usuario en la Intranet, sin asociarse!
   - Subir el **Resumen del Trabajo** (cuerpo del resumen máximo 400 palabras).
   - Indicar su **dirección de correo electrónico**.
 
