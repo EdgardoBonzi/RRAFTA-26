@@ -115,7 +115,7 @@ Como extensión del enfoque basado en redes neuronales, presentamos dos aplicaci
 <div style="page-break-after: always;"></div>
 
 ##### Comisión Organizadora
-- Gabriel  - Coordinadora Comité Científico
+- Gabriela Grad  - Coordinadora Comité Científico
 - Karina Chattah - Presidente AFA Local
 - Cecilia Gimenez
 - Omar Osenda - Presidente AFA
