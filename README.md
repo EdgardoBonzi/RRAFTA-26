@@ -93,7 +93,7 @@ Bienvenidos a la **RRAFTA-25**, la Reunión Regional Anual de Física, Tecnolog�
   *Las *Physics-Informed Neural Networks* (PINN) son redes neuronales que integran las leyes físicas, usualmente expresadas como ecuaciones diferenciales, dentro de su función de pérdida. Esto permite resolver problemas directos e inversos con pocos datos, mejorando la generalización al respetar principios físicos fundamentales. Las PINN han revolucionado áreas como dinámica de fluidos, física cuántica y propagación de ondas, y se proyectan como herramientas clave en simulación y control de sistemas complejos.
 Como extensión del enfoque basado en redes neuronales, presentamos dos aplicaciones exitosas de *Shallow Neural Networks* (SNN) en física. La primera consiste en la reconstrucción de espectros de electrones de aceleradores lineales médicos (LINAC) y la segunda emplea redes MLP para detectar picos de cesio-137 en espectros gamma de sedimentos lacustres. Estas aplicaciones muestran que las SNN, también pueden ser diseñadas para resolver eficazmente problemas físicos reales, posicionándose como herramientas complementarias a las PINN en el desarrollo de modelos híbridos y estrategias de aprendizaje guiado por datos y física.*
 
-- Jueves a las 18.40 hs: **Metrología Cuántica**, Disertante: Mariano Real. INTI – Universidad Nacional de San Martín ( a confirmar)   
+- Jueves a las 18.50 hs: **Metrología Cuántica**, Disertante: Mariano Real. INTI – Universidad Nacional de San Martín ( a confirmar)   
   
   ---
 - Viernes a las 18.00 hs: **Diamantes para Sensado Cuántico**, Disertante: Fernando Meneses. FAMAF-UNC.   
