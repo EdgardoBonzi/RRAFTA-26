@@ -114,6 +114,17 @@ Como extensión del enfoque basado en redes neuronales, presentamos dos aplicaci
 ---
 <div style="page-break-after: always;"></div>
 
+##### Comisión Organizadora
+- Gabriel  - Coordinadora Comité Científico
+- Karina Chattah - Presidente AFA Local
+- Cecilia Gimenez
+- Omar Osenda - Presidente AFA
+- Marcos Olivo
+- Jerónimo Acito Pino
+- Lucas Montenegro Perlo
+- Edgardo Bonzi - Coordinador Comisión Organizadora
+
+
 ##### 📧 Contacto
 
 Coordinador de la Comisión Organizadora: **Edgardo Bonzi**  
