@@ -139,7 +139,7 @@ Coordinador de la Comisión Organizadora: **Edgardo Bonzi**
 | RRAFTA 25 - github.com/EdgardoBonzi/RRAFTA-25/                                     | FAMAF - www.famaf.unc.edu.ar/ UNC                                                                | Intranet AFA intranet.fisica.org.ar/                                                                          |
 
 
-| RRAFTA 25                                                                               | FAMAF - UNC                                                                | Intranet AFA                                                                             |
+| RRAFTA 25- github.com/EdgardoBonzi/RRAFTA-25/| FAMAF - UNC - www.famaf.unc.edu.ar/ UNC                                                                | Intranet AFA   intranet.fisica.org.ar/                                                                          |
 |:---------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------:|
 | <img src="qr-code_RRAFTA_2025.png" alt="QR de la RRAFTA-25" width="180" height="180" /> | <img src="qr-code_FAMAF.png" alt="QR de FaMAF" width="180" height="180" /> | <img src="qr-code_INTRANET_AFA.png" alt="QR de Intranet AFA" width="180" height="180" /> |
 
