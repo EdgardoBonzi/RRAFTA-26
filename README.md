@@ -85,8 +85,11 @@ Bienvenidos a la **RRAFTA-25**, la Reunión Regional Anual de Física, Tecnolog�
 
 ##### 🔊 Disertaciones
 
-- Durante los días de la reunión, se llevarán a cabo **disertaciones científicas** en el **Aula Magna de la FaMAF**, a partir de las 17:30 hs.
+- Durante los días de la reunión, se llevarán a cabo **disertaciones científicas** en el **Aula Magna de la FaMAF**, a partir de las 18:00 hs.
+- Miercoles a las 18:30 h: **En lo profundo de Vaca Muerta. Usamos la física para saber qué hay bajo tierra**, Disertante: Rodolfo Acosta. FAMAF-UNC.
 
+  ---
+-
 - Jueves a las 18.00 hs: **Presentacion de Los Carpinchos**, Presentadora Gabriela Grad. FAMAF-UNC.
   
 - Jueves a las 18.15 hs: **PINN (physical informed neural network) y SNN (shallow neural networks) en la física**, Disertante: Edgardo Bonzi. FAMAF-UNC.   
@@ -123,7 +126,7 @@ En la charla describiré el efecto y sus propiedades, para luego comentar sobre 
 - Karina Chattah - Presidente AFA Local
 - Cecilia Gimenez
 - Omar Osenda - Presidente AFA
-- Marcos Olivo
+- Marcos Oliva
 - Jerónimo Acito Pino
 - Lucas Montenegro Perlo
 - Edgardo Bonzi - Coordinador Comisión Organizadora
