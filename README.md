@@ -127,4 +127,4 @@ Coordinador de la Comisión Organizadora: **Edgardo Bonzi**
 
 ---
 
-🌟  **¡Los esperamos para compartir ciencia, tecnología e intercambio en la RRAFTA-25!**   🌟
+🌟  **¡Los esperamos para compartir ciencia, tecnología e intercambio en la RRAFTA-26!**   🌟
