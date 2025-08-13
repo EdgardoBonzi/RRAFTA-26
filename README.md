@@ -22,7 +22,7 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
 
 ##### 🗓️ Fechas y Lugar
 
-- **Fechas:** junio de 2026
+- **Fechas:** 1ra quincena de junio de 2026
 - **Lugar:** Facultad de Matemática, Astronomía, Física y Computación (FaMAF) - Universidad Nacional de Córdoba
 - **Horario:** A partir de las 17.00 hs.
 
@@ -53,7 +53,7 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
 
 - Al enviar el resumen:
   
-  - Se podrá descargar un PDF con la leyenda: “**Sujeto a revisión por parte del Comité Científico de la RRAFTA-25**”.
+  - Se podrá descargar un PDF con la leyenda: “**Sujeto a revisión por parte del Comité Científico de la RRAFTA-26**”.
 
 - **Fecha límite para envío de resúmenes:** 2 de junio de 2026.
 
