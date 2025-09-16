@@ -48,8 +48,6 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
   - Agregar los autores del trabajo
   - Indicar su **dirección de correo electrónico**.
 
-<div style="page-break-after: always;"></div>
-
 - Al enviar el resumen:
   
   - Se podrá descargar un PDF con la leyenda: “**Sujeto a revisión por parte del Comité Científico de la RRAFTA-26**”.
@@ -57,6 +55,7 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
 - **Fecha límite para envío de resúmenes:** 7 de junio de 2026.
 
 --- 
+<div style="page-break-after: always;"></div>
 
 ##### 🔄 Proceso de Evaluación
 
@@ -121,19 +120,20 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
 
 ##### Comisión Organizadora
 - Gabriela Grad  - Coordinadora Comité Científico
-- Karina Chattah
-- Cecilia Gimenez
-- Omar Osenda
-- Marcos Oliva
-- Jerónimo Acito Pino
-- Lucas Montenegro Perlo
-- Luana Ferrero
+- Karina Chattah  
+- Cecilia Gimenez  
+- Carlos Di Prinzio  
+- Marcos Oliva  
+- Omar Osenda  
+- Jerónimo Acito Pino  
+- Lucas Montenegro Perlo  
+- Luana Ferrero  
 - Edgardo Bonzi - Coordinador Comisión Organizadora
 
 
 ##### 📧 Contacto
 
-Coordinador de la Comisión Organizadora: **Edgardo Bonzi**  
+Coordinador de la Comisión Organizadora: Edgardo Bonzi   
 📧 **Correo:** _edgardobonzi@gmail.com_   
 📧 **Correo:** _edgardo.bonzi@unc.edu.ar_
 
