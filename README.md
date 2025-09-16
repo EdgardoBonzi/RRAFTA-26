@@ -87,27 +87,27 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
 - Durante los días de la reunión, se llevarán a cabo **disertaciones científicas** en el **Aula Magna de la FaMAF**, a partir de las 15:00 hs.
 
 1. **Karina Chattah**
-   > Control de la dinámica espines y su decoherencia por RMN
+   > Control de la dinámica espines y su decoherencia por RMN.  
    > 9 de junio, 15 Hs
 
 2. **Noelia Bajales Luna**
-   > Diseño, síntesis y simulaciones de nanoestructuras magnéticas para aplicaciones nanotecnológicas.
+   > Diseño, síntesis y simulaciones de nanoestructuras magnéticas para aplicaciones nanotecnológicas.  
    > 9 de junio, 16 hs
 
 3. **Jorge Revelli**
-   > Sistemas complejos: Aplicaciones a la sociofisica.
+   > Sistemas complejos: Aplicaciones a la sociofisica.  
    > 9 de junio, 17 hs
 
 4. **Sergio Massuelli**
-   > Estimacion de precipitacion con sensores remotos
+   > Estimacion de precipitacion con sensores remotos.  
    > 11 de junio, 15 hs
    
 5. **Cecilia Gimenez**
-   > a confirmar
+   > a confirmar  
    > 11 de junio, 16 hs
 
 1. **Jerónimo Acito Pino**
-   > Estudio de espectros y propiedades excitónicas en semiconductores mediante cálculos GW–BSE
+   > Estudio de espectros y propiedades excitónicas en semiconductores mediante cálculos GW–BSE.  
    > 11 de junio, 17 hs
 
 ##### ☕ Servicios Disponibles
