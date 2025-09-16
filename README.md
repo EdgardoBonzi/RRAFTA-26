@@ -88,21 +88,27 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
 
 1. **Karina Chattah**
    > Control de la dinámica espines y su decoherencia por RMN
+   > 9 de junio, 15 Hs
 
 2. **Noelia Bajales Luna**
    > Diseño, síntesis y simulaciones de nanoestructuras magnéticas para aplicaciones nanotecnológicas.
+   > 9 de junio, 16 hs
 
 3. **Jorge Revelli**
    > Sistemas complejos: Aplicaciones a la sociofisica.
+   > 9 de junio, 17 hs
 
 4. **Sergio Massuelli**
    > Estimacion de precipitacion con sensores remotos
+   > 11 de junio, 15 hs
    
 5. **Cecilia Gimenez**
    > a confirmar
+   > 11 de junio, 16 hs
 
 1. **Jerónimo Acito Pino**
    > Estudio de espectros y propiedades excitónicas en semiconductores mediante cálculos GW–BSE
+   > 11 de junio, 17 hs
 
 ##### ☕ Servicios Disponibles
 
