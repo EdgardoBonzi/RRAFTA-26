@@ -22,15 +22,14 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
 
 ##### 🗓️ Fechas y Lugar
 
-- **Fechas:** 1ra quincena de junio de 2026
+- **Fechas:** del 9 al 11 de junio de 2026
 - **Lugar:** Facultad de Matemática, Astronomía, Física y Computación (FaMAF) - Universidad Nacional de Córdoba
-- **Horario:** A partir de las 17.00 hs.
+- **Horario:** A partir de las 15.00 hs.
 
 ---
 
 ##### 🔹 Modalidad de Participación
-
-- Participación mediante **presentación de posters**.
+- Participación mediante **presentación de posters** y **asitencia a disertaciones**
 - No existe inscripción individual.
 - **No tiene costo de participación.**
 
@@ -55,7 +54,7 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
   
   - Se podrá descargar un PDF con la leyenda: “**Sujeto a revisión por parte del Comité Científico de la RRAFTA-26**”.
 
-- **Fecha límite para envío de resúmenes:** 2 de junio de 2026.
+- **Fecha límite para envío de resúmenes:** 7 de junio de 2026.
 
 --- 
 
@@ -85,9 +84,25 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
 
 ##### 🔊 Disertaciones
 
-- Durante los días de la reunión, se llevarán a cabo **disertaciones científicas** en el **Aula Magna de la FaMAF**, a partir de las 18:00 hs.
+- Durante los días de la reunión, se llevarán a cabo **disertaciones científicas** en el **Aula Magna de la FaMAF**, a partir de las 15:00 hs.
 
----
+1. **Karina Chattah**
+   > Control de la dinámica espines y su decoherencia por RMN
+
+2. **Noelia Bajales Luna**
+   > Diseño, síntesis y simulaciones de nanoestructuras magnéticas para aplicaciones nanotecnológicas.
+
+3. **Jorge Revelli**
+   > Sistemas complejos: Aplicaciones a la sociofisica.
+
+4. **Sergio Massuelli**
+   > Estimacion de precipitacion con sensores remotos
+   
+5. **Cecilia Gimenez**
+   > a confirmar
+
+1. **Jerónimo Acito Pino**
+   > Estudio de espectros y propiedades excitónicas en semiconductores mediante cálculos GW–BSE
 
 ##### ☕ Servicios Disponibles
 
@@ -100,12 +115,13 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
 
 ##### Comisión Organizadora
 - Gabriela Grad  - Coordinadora Comité Científico
-- Karina Chattah - Presidente AFA Local
+- Karina Chattah
 - Cecilia Gimenez
-- Omar Osenda - Presidente AFA
+- Omar Osenda
 - Marcos Oliva
 - Jerónimo Acito Pino
 - Lucas Montenegro Perlo
+- Luana Ferrero
 - Edgardo Bonzi - Coordinador Comisión Organizadora
 
 
