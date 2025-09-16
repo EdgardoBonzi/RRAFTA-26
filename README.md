@@ -102,7 +102,7 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
    > 11 de junio, 15 hs
    
 5. **Cecilia Gimenez**
-   > a confirmar  
+   > Estudios computacionales de hidrógeno en celdas de combustible.  
    > 11 de junio, 16 hs
 
 1. **Jerónimo Acito Pino**
