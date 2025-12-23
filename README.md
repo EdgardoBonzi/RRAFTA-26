@@ -6,7 +6,7 @@
 <h1 style="color:#1f4e79; font-size:36px;">RRAFTA 26</h1>
 </td>
 <td width="45%" align="right">
-<img src="Logo_RRAFTA-25.png" alt="RRAFTA 26" width="130" height="130">
+<img src="Logo_RRAFTA-26.png" alt="RRAFTA 26" width="130" height="130">
 </td>
 </tr>
 </table>
