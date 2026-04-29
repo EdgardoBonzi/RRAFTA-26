@@ -77,7 +77,7 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
 
 ##### 📈 Certificados
 
-- El investigador responsable de cada trabajo **aprobado y presentado** podrá descargar automáticamente un **Certificado** desde la Intranet, luego de concluida la RRAFTA 26.
+- **El investigador responsable** de cada trabajo aprobado y presentado **deberá descargar el Certificado** desde la Intranet, **luego de concluida la RRAFTA 26**.
 
 ---
 
@@ -110,8 +110,6 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
    > 11 de junio, 17 hs
 
 ##### ☕ Servicios Disponibles
-
-- Se dispondrá de **cafetería** durante el evento.
 
 - Se solicita que al menos **un investigador** por poster presentado esté presente en el horario de exposición correspondiente.
 
