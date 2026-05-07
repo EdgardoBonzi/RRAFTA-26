@@ -104,7 +104,17 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
 5. **Cecilia Gimenez**
    > Estudios computacionales de hidrógeno en celdas de combustible.  
    > 11 de junio, 16 hs
-
+**Resumen**
+El hidrógeno verde es fundamental para la producción y almacenamiento de energía limpia y ofrece un
+camino para alejarse de los combustibles fósiles y la posibilidad de una economía energética más
+sustentable. La electrólisis del agua es ideal para la producción de hidrógeno, pero los
+electrocatalizadores que se requieren actualmente son metales nobles, lo que hace que esta opción
+potencial sea complicada para aplicaciones industriales. Por lo tanto se hace necesario el estudio de
+electrocatalizadores alternativos. Mediante cálculos de primeros principios (DFT) y simulaciones de tipo
+Monte Carlo, se pueden estudiar la adsorción y las reacciones del hidrógeno sobre diferentes superficies.
+En particular, superficies de cobre, níquel, etc., que puede ser modificadas para aumentar su rugosidad o
+dopadas con otros elementos, con el fin de mejorar su eficiencia como catalizadores.
+   
 1. **Jerónimo Acito Pino**
    > Estudio de espectros y propiedades excitónicas en semiconductores mediante cálculos GW–BSE.  
    > 11 de junio, 17 hs
