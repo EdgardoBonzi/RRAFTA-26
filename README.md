@@ -104,7 +104,7 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
 5. **Cecilia Gimenez**
    > Estudios computacionales de hidrógeno en celdas de combustible.  
    > 11 de junio, 16 hs  
-**Resumen**
+**Resumen**  
 El hidrógeno verde es fundamental para la producción y almacenamiento de energía limpia y ofrece un
 camino para alejarse de los combustibles fósiles y la posibilidad de una economía energética más
 sustentable. La electrólisis del agua es ideal para la producción de hidrógeno, pero los
