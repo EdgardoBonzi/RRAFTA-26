@@ -86,23 +86,23 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
 - Durante los días de la reunión, se llevarán a cabo **disertaciones científicas** en el **Aula Magna de la FaMAF**, a partir de las 15:00 hs.
 
 1. **Karina Chattah**
-   > Control de la dinámica espines y su decoherencia por RMN.  
+   > **Control de la dinámica espines y su decoherencia por RMN**  
    > 9 de junio, 15 Hs
 
 2. **Noelia Bajales Luna**
-   > Diseño, síntesis y simulaciones de nanoestructuras magnéticas para aplicaciones nanotecnológicas.  
+   > **Diseño, síntesis y simulaciones de nanoestructuras magnéticas para aplicaciones nanotecnológicas**  
    > 9 de junio, 16 hs
 
 3. **Jorge Revelli**
-   > Sistemas complejos: Aplicaciones a la sociofisica.  
+   > **Sistemas complejos: Aplicaciones a la sociofisica**.  
    > 9 de junio, 17 hs
 
 4. **Sergio Massuelli**
-   > Estimacion de precipitacion con sensores remotos.  
+   > **Estimacion de precipitacion con sensores remotos**.  
    > 11 de junio, 15 hs
    
 5. **Cecilia Gimenez**
-   > Estudios computacionales de hidrógeno en celdas de combustible.  
+   > **Estudios computacionales de hidrógeno en celdas de combustible**.  
    > 11 de junio, 16 hs  
 **Resumen**  
 El hidrógeno verde es fundamental para la producción y almacenamiento de energía limpia y ofrece un
@@ -116,7 +116,7 @@ En particular, superficies de cobre, níquel, etc., que puede ser modificadas pa
 dopadas con otros elementos, con el fin de mejorar su eficiencia como catalizadores.
    
 1. **Jerónimo Acito Pino**
-   > Estudio de espectros y propiedades excitónicas en semiconductores mediante cálculos GW–BSE.  
+   > **Estudio de espectros y propiedades excitónicas en semiconductores mediante cálculos GW–BSE**.  
    > 11 de junio, 17 hs  
 **Resumen**  
 En este trabajo se estudian los espectros de absorción óptica y de rayos X en aislantes y semiconductores de brecha ancha (LiF, MgO, CaO y ZnO) mediante cálculos ab initio. Se emplea la Teoría del Funcional de la Densidad (DFT) como punto de partida para la descripción del estado fundamental, utilizando una metodología all-electron de full-potential (LAPW+LO). Para una descripción adecuada de los estados excitados, se incorpora la Teoría de Perturbaciones de Muchos Cuerpos mediante la aproximación G₀W₀ y la ecuación de Bethe–Salpeter (BSE), que permite incluir explícitamente la interacción electrón–hueco.
