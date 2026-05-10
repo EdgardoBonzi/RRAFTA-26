@@ -118,6 +118,12 @@ dopadas con otros elementos, con el fin de mejorar su eficiencia como catalizado
 1. **Jerónimo Acito Pino**
    > Estudio de espectros y propiedades excitónicas en semiconductores mediante cálculos GW–BSE.  
    > 11 de junio, 17 hs
+**Resumen**
+En este trabajo se estudian los espectros de absorción óptica y de rayos X en aislantes y semiconductores de brecha ancha (LiF, MgO, CaO y ZnO) mediante cálculos ab initio. Se emplea la Teoría del Funcional de la Densidad (DFT) como punto de partida para la descripción del estado fundamental, utilizando una metodología all-electron de full-potential (LAPW+LO). Para una descripción adecuada de los estados excitados, se incorpora la Teoría de Perturbaciones de Muchos Cuerpos mediante la aproximación G₀W₀ y la ecuación de Bethe–Salpeter (BSE), que permite incluir explícitamente la interacción electrón–hueco.
+
+Los resultados muestran que los efectos excitónicos son fundamentales para reproducir con precisión los espectros de absorción. La BSE permite describir los picos excitónicos por debajo del gap de cuasipartículas y capturar correctamente la estructura fina de los espectros ópticos y XANES. Se identifican excitones fuertemente localizados de tipo Frenkel en LiF y excitones más extendidos de tipo Wannier–Mott en MgO, CaO y ZnO. En el caso de ZnO, se reproduce además la anisotropía óptica asociada a su estructura cristalina wurtzita.
+
+El estudio confirma la importancia de los métodos de muchos cuerpos para la interpretación cuantitativa de espectros de absorción en materiales de brecha ancha y establece una base metodológica sólida para su aplicación a sistemas más complejos.   
 
 ##### ☕ Servicios Disponibles
 
