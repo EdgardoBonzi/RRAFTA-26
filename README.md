@@ -92,7 +92,7 @@ Bienvenidos a la **RRAFTA-26**, la Reunión Regional Anual de Física, Tecnolog�
 2. **Noelia Bajales Luna**
    > **Diseño, síntesis y simulaciones de nanoestructuras magnéticas para aplicaciones nanotecnológicas**  
    > 9 de junio, 16 hs  
-   **Resumen**
+   **Resumen**  
    El avance de la nanotecnología actual depende críticamente de nuestra capacidad para diseñar y fabricar nanoestructuras con propiedades controladas de manera precisa y eficiente.
  	Esta presentación aborda el ciclo completo de desarrollo de plataformas nanoestructuradas, desde la implementación de métodos de síntesis de bajo costo hasta la simulación micromagnética de estados topológicos complejos en materiales magnéticos quirales.  
 	En la primera parte de esta charla, se presenta un enfoque innovador y económico para la fabricación de óxido de aluminio anódico (AAO) mediante anodizado duro (HA). Utilizando una fuente de alimentación de corriente continua (DCPS) de topología simple basada en cargadores de baterías de laptops y gestionada mediante tecnología Arduino, se logró alcanzar voltajes de hasta 130 V. Este sistema modular permitió producir membranas de alúmina con poros bien definidos y diámetros cercanos a los 100 nm, optimizados mediante procesos posteriores de ataque químico para mejorar la morfología del canal. Estas plataformas resultan fundamentales como moldes para el crecimiento de nanoestructuras o como sustratos en espectroscopia Raman realzada por superficie (SERS).  
