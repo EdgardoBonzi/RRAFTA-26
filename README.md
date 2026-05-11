@@ -153,9 +153,12 @@ El estudio confirma la importancia de los métodos de muchos cuerpos para la int
 
 ##### 📧 Contacto
 
+📧 **Correo:** _rrafta.famaf@gmail.com_
+
 Coordinador de la Comisión Organizadora: Edgardo Bonzi   
 📧 **Correo:** _edgardobonzi@gmail.com_   
 📧 **Correo:** _edgardo.bonzi@unc.edu.ar_
+
 
 ---
 
